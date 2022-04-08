@@ -1,0 +1,11 @@
+Name: Artur Azarskyy
+Student Number: 400123456
+Group Members: Artur Azarskyy, Puneet Sandhu, and Phan Trung Kien
+Sprint: 3
+
+Contributions:
+    Artur:
+    - Bug fixing with TypeChecker and IR generator
+
+
+

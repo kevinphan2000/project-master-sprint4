@@ -1,0 +1,10 @@
+﻿Name: Phan Trung Kien
+Student Number: 1005517291
+Group Members: Artur Azarskyy, Puneet Sandhu, and Phan Trung Kien
+Sprint: 4
+
+
+Contributions:
+    Kevin:
+    - Bug fixing in Lexer and BackEnd
+    - Add some test cases to determine the functionality
